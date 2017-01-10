@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Хост: 127.0.0.1
--- Время создания: Янв 09 2017 г., 17:58
+-- Время создания: Янв 09 2017 г., 20:06
 -- Версия сервера: 5.5.25
 -- Версия PHP: 5.6.8
 
@@ -34,11 +34,7 @@ CREATE TABLE IF NOT EXISTS `tasks` (
   `imagelink` varchar(64) NOT NULL,
   `status` tinyint(1) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=26 ;
-
---
--- Дамп данных таблицы `tasks`
---
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
