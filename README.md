@@ -1,7 +1,5 @@
 # tasker
-Task
-
-Create task manager.
+The task is to create task manager.
 
 The task consists of:
 - user name;
@@ -9,8 +7,8 @@ The task consists of:
 - task itself;
 - picture.
 
-Requirements for pictures - JPG/GIF/PNG format, not more than 320х240 pixels. 
-Trying to upload lager picture will result decreasing of its dimensions proportionally. 
+Requirements for pictures - JPG/GIF/PNG format, not more than 320х240 pixels.
+Trying to upload lager picture will result decreasing of its dimensions proportionally.
 
 Any user can create new task.
 Before saving there can be possible to click "preview" button, it should work without page reloading.
